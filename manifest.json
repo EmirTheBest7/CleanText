@@ -1,0 +1,45 @@
+{
+  "manifest_version": 3,
+  "name": "CleanText",
+  "version": "1.0.0",
+  "description": "Detect AI-generated text and humanize it with advanced NLP techniques. Works 100% offline.",
+  "permissions": [
+    "storage",
+    "clipboardWrite",
+    "contextMenus",
+    "sidePanel"
+  ],
+  "host_permissions": [],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "action": {
+    "default_popup": "popup.html",
+    "default_title": "CleanText",
+    "default_icon": {
+      "16": "assets/icon16.png",
+      "48": "assets/icon48.png",
+      "128": "assets/icon128.png"
+    }
+  },
+  "side_panel": {
+    "default_path": "popup.html"
+  },
+  "icons": {
+    "16": "assets/icon16.png",
+    "48": "assets/icon48.png",
+    "128": "assets/icon128.png"
+  },
+  "commands": {
+    "humanize-text": {
+      "suggested_key": {
+        "default": "Ctrl+Shift+H",
+        "mac": "Command+Shift+H"
+      },
+      "description": "Detect AI-generated text and humanize it with advanced NLP techniques. Works 100% offline."
+    }
+  },
+  "content_security_policy": {
+    "extension_pages": "script-src 'self'; object-src 'self'"
+  }
+}
