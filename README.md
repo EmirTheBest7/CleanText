@@ -19,6 +19,11 @@ Works with:
 
 CleanText is a modern Chrome Extension that enhances writing quality across the web using AI-powered rewriting, style transformation, and clarity optimization tools.
 
+<p float="left" align="center">
+    <a href="https://github.com/EmirTheBest7/CleanTube"><img height="10%" alt="CleanTube_btn" src="https://github.com/user-attachments/assets/4f6f8716-9856-48a5-accd-27e84d17079d" /></a>
+    <a href="https://github.com/EmirTheBest7/CleanText"><img height="10%" alt="CleanText_btn" src="https://github.com/user-attachments/assets/fe4065f3-a424-4d0e-8b99-933324fd034e" /></a>
+</p>
+
 ## Usage
 <p float="left">
   <img src="https://github.com/user-attachments/assets/9908d584-4054-4dbe-a4b4-9682a6ffa242" width="30%" />
@@ -26,6 +31,7 @@ CleanText is a modern Chrome Extension that enhances writing quality across the 
 
 
 ### 📥 Download Versions
+
 
 
 | Version | Release Date | Download | Highlights | Status |
