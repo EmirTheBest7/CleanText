@@ -1,8 +1,8 @@
 {
   "manifest_version": 3,
-  "name": "CleanText",
-  "version": "1.0.0",
-  "description": "Detect AI-generated text and humanize it with advanced NLP techniques. Works 100% offline.",
+  "name": "CleanText v1.0.1 [BETA]",
+  "version": "1.0.1",
+  "description": "Detect AI-generated text and humanize it. Works 100% offline.",
   "permissions": [
     "storage",
     "clipboardWrite",
@@ -15,7 +15,7 @@
   },
   "action": {
     "default_popup": "popup.html",
-    "default_title": "CleanText",
+    "default_title": "CleanText v1.0.1 [BETA]",
     "default_icon": {
       "16": "assets/icon16.png",
       "48": "assets/icon48.png",
@@ -36,7 +36,7 @@
         "default": "Ctrl+Shift+H",
         "mac": "Command+Shift+H"
       },
-      "description": "Detect AI-generated text and humanize it with advanced NLP techniques. Works 100% offline."
+      "description": "Detect AI-generated text and humanize it. Works 100% offline."
     }
   },
   "content_security_policy": {
