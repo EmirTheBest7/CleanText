@@ -33,10 +33,10 @@ CleanText is a modern Chrome Extension that enhances writing quality across the 
 ### 📥 Download Versions
 
 
-
 | Version | Release Date | Download | Highlights | Status |
 | :--- | :--- | :--- | :--- | :--- |
 | **v1.0.1** | Jun 11, 2026 | [📦 CleanText_1.0.1.zip](https://github.com/EmirTheBest7/CleanText/releases/download/v1.0.1/CleanText_1.0.1.zip) | Core | 🟢 BETA 1 |
+| **v1.0.2** | Jun 12, 2026 | [📦 CleanText_1.0.2.zip](https://github.com/EmirTheBest7/CleanText/releases/download/v1.0.2/CleanText_1.0.2.zip) | Language Processing | 🟢 BETA 2 |
 
 ---
 
